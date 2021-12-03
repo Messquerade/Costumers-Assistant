@@ -5,6 +5,14 @@
 This is design and planning web application for costumers to organize large productions.
 
 ## Technologies
+* React
+* JavaScript
+* Node
+* Redux
+* MongoDB Atlas
+* Express
+* Mongoose
+* 
 
 
 
@@ -17,3 +25,7 @@ https://www.youtube.com/watch?v=ofme2o29ngU
 start udemy course on MERN stack
 https://www.udemy.com/course/mern-stack-front-to-back/
 * 11:30 set up MongoDB Atlas (cloud based database)
+* 1:00 building MERN stack tutorial project to learn express and mongoDB
+https://github.com/Messquerade/Dev-Network
+Commits made on this project, *finish by the end of the weekend*
+
