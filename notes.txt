@@ -1,0 +1,6 @@
+Capstone Project! Much Excite. So Wow.
+
+To Do:
+Friday 12/3 -> * research both MongoDB and FireBase to decide which database to use for Project
+* plan out what each user profile and options should look like (ie diagram)
+* Udemy MERN course start? And finish over the weekend?
