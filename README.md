@@ -16,3 +16,4 @@ https://www.youtube.com/watch?v=ofme2o29ngU
 * 10:30 update notes
 start udemy course on MERN stack
 https://www.udemy.com/course/mern-stack-front-to-back/
+* 11:30 set up MongoDB Atlas (cloud based database)

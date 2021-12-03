@@ -4,3 +4,9 @@ To Do:
 Friday 12/3 -> * research both MongoDB and FireBase to decide which database to use for Project
 * plan out what each user profile and options should look like (ie diagram)
 * Udemy MERN course start? And finish over the weekend?
+* seems like a solid plan: users will then be able to create accounts, and their productions on their profiles, talk to each other in forums looking for specific articles of clothing, costuming gigs, instructions or help with costuming issues
+* lol I keep going back to the social aspect rather than the design aspect, but this way I can have both right? The user's profile can have all their production information, with public or private settings, and then they will easily be able to promote themselves and share resources
+
+New Stretch Goal: very very stretch: be able to sign up as a costumer or a employer (collaborator?) so directors or producers can search for costumers and offer or post gigs/ positions.
+Alternatively: user profiles could just have a contact (email, facebook, instagram)
+
