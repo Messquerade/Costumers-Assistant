@@ -10,3 +10,5 @@ Friday 12/3 -> * research both MongoDB and FireBase to decide which database to 
 New Stretch Goal: very very stretch: be able to sign up as a costumer or a employer (collaborator?) so directors or producers can search for costumers and offer or post gigs/ positions.
 Alternatively: user profiles could just have a contact (email, facebook, instagram)
 
+Friday 12/10 -> build user registration and authentication.
+What should each user have (models): user, profile, production, costume, post
