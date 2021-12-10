@@ -12,7 +12,12 @@ This is design and planning web application for costumers to organize large prod
 * MongoDB Atlas
 * Express
 * Mongoose
-* 
+* Json Web Tokens
+* Config
+* Express-Validator
+* Bcrypt
+
+
 
 
 
