@@ -8,7 +8,17 @@ Friday 12/3 -> * research both MongoDB and FireBase to decide which database to 
 * lol I keep going back to the social aspect rather than the design aspect, but this way I can have both right? The user's profile can have all their production information, with public or private settings, and then they will easily be able to promote themselves and share resources
 
 New Stretch Goal: very very stretch: be able to sign up as a costumer or a employer (collaborator?) so directors or producers can search for costumers and offer or post gigs/ positions.
+Actually this might be doable^^^ 
 Alternatively: user profiles could just have a contact (email, facebook, instagram)
 
-Friday 12/10 -> build user registration and authentication. connect to mongoDB database
-What should each user have (models): users, profiles, productions, costumes, posts, replies?, calendar?
+Friday 12/10 -> build user registration and authentication. connect to mongoDB database *DONE*
+What should each user have (models/routes): users, profiles, productions, costumes, posts, replies?, calendar?
+Profile: name,
+ location,
+  role(s)*lots of people in the theater where multiple hats*(costumer, director, wardrobe, props, actor, student, stage manager), check boxes and an optional enter your own role? or enter in text and separate by commas?
+  associated companies(companies you are or have worked with),
+  bio(everyone has one, everyone hates writing them),
+  website? (uh... i guess),
+  some sort of gallery of pictures, like a portfolio? or would that be the production and costume section under each user?
+  The exprience and education sections would be cool, because then people could get hired or look for a person to fill a certain role. Ask a director to consider them for their next production. Am I making a theater networking site? Maybe. I just want people to be able to share cool costumes and communicate!
+  

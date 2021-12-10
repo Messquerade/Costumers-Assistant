@@ -2,7 +2,7 @@
 
 ### By Anna Clarke
 
-This is design and planning web application for costumers to organize large productions.
+This is design and planning web application for costumers to organize large productions and coordinate with other theater professionals.
 
 ## Technologies
 * React
@@ -15,7 +15,8 @@ This is design and planning web application for costumers to organize large prod
 * Json Web Tokens
 * Config
 * Express-Validator
-* Bcrypt
+* Bcryptjs
+* 
 
 
 
@@ -32,5 +33,10 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 * 11:30 set up MongoDB Atlas (cloud based database)
 * 1:00 building MERN stack tutorial project to learn express and mongoDB
 https://github.com/Messquerade/Dev-Network
-Commits made on this project, *finish by the end of the weekend*
+Commits made on this project, *finish by the end of the weekend* ha that didn't happen, work in progress but it was a good jumping off point
+
+#### Friday 12/10
+* see commit history and notes file. Basically, building the backend first. Got users and authentication set up
+* 3:30 figuring out what information should be on a user's profile
+
 
