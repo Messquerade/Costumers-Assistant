@@ -1,9 +1,10 @@
-import React from 'react'
+import * as React from 'react';
+import Button from '@mui/material/Button';
 
-export const Navbar = () => {
+const Navbar = () => {
   return (
-    <div>
-      
-    </div>
-  )
+    <Button >hi</Button>
+  );
 }
+
+export default Navbar;
